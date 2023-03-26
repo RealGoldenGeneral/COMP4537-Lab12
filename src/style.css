@@ -1,0 +1,20 @@
+.btnActive {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.pokemonList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+}
